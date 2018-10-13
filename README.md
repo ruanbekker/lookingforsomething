@@ -39,6 +39,8 @@ Phase 0
 
 ## Screenshots:
 
+The look for now:
+
 ![image](https://user-images.githubusercontent.com/567298/46910972-0e5b5500-cf50-11e8-905a-461b1dabe300.png)
 
 - [Demo Site](http://dev.lookingforsomething.co.za/)
