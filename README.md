@@ -36,3 +36,9 @@ If you are interested to list your business on this service, send me an email to
 ## Current Progress
 
 Phase 0
+
+## Screenshots:
+
+![image](https://user-images.githubusercontent.com/567298/46910972-0e5b5500-cf50-11e8-905a-461b1dabe300.png)
+
+- [Demo Site](http://dev.lookingforsomething.co.za/)
